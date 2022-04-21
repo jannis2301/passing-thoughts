@@ -26,4 +26,4 @@ The techniques utilized was based on the lessons taught in [Codecademy's React, 
 
 ## View the App
 
--On [Surge](https://passing_thoughts.surge.sh/)
+- On [Surge](https://passing_thoughts.surge.sh/)
