@@ -1,0 +1,25 @@
+input,
+button {
+  font: inherit;
+  box-sizing: border-box;
+}
+
+input[type='submit'],
+button {
+  cursor: pointer;
+}
+
+.App {
+  margin: 0 auto;
+  max-inline-size: 37.5rem;
+  inline-size: 95%;
+}
+
+.App h1 {
+  text-shadow: 1px 2px 3px #fff;
+}
+
+.App h1:before {
+  content: '💭';
+  margin-inline-end: 0.5em;
+}
