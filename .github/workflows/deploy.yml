@@ -39,8 +39,8 @@ jobs:
     runs-on: ubuntu-latest
     if: github.ref == 'refs/heads/main'
 
-     permissions:
-      contents: write
+    permissions:
+    contents: write
 
     steps:
       - name: Download artifact
